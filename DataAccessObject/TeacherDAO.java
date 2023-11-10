@@ -1,8 +1,6 @@
 package com.DataAccessObject;
 
 import com.Database.JDBCManager;
-import com.model.Person;
-import com.model.Student;
 import com.model.Teacher;
 
 import java.sql.*;
